@@ -9,11 +9,22 @@
 *Total Weight = 100%*
 
 ## Strategic Branches Evaluated
-- **Branch A — E-Commerce & Logistics Overhaul**
-- **Branch B — Retail Footprint Downsizing**
-- **Branch C — Hybrid B2B Licensing**
+Each branch is evaluated against Margin Impact, CapEx, and Risk before scoring.
 
-Each branch is evaluated against Margin Impact, CapEx, and Risk through the scoring criteria below.
+**Branch A — E-Commerce & Logistics Overhaul**
+- **Margin Impact:** High positive impact due to reduced inventory carry costs.
+- **CapEx:** High initial capital expenditure required for warehouse automation.
+- **Risk:** Moderate execution risk centered around ERP integration.
+
+**Branch B — Retail Footprint Downsizing**
+- **Margin Impact:** Moderate positive impact from cutting physical overhead.
+- **CapEx:** Low, as it mostly involves divestment and lease terminations.
+- **Risk:** High risk of losing brand presence and market share.
+
+**Branch C — Hybrid B2B Licensing**
+- **Margin Impact:** High margin per deal, but uncertain volume.
+- **CapEx:** Moderate, primarily in sales restructuring and legal frameworks.
+- **Risk:** Low operational risk, but shifts the core business model.
 
 ## Decision Matrix
 
