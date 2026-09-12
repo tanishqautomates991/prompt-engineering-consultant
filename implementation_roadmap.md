@@ -1,5 +1,5 @@
 # Implementation Roadmap
-**Selected Strategy:** Branch A — E-Commerce & Logistics Overhaul
+**Selected Strategy:** Branch A: E-Commerce & Logistics Overhaul
 
 ---
 
